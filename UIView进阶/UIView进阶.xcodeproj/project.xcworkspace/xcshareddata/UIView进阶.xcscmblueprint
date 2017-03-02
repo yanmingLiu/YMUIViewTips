@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EB499519E11C2E530F8F0BE468F48277B8C63485",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EB499519E11C2E530F8F0BE468F48277B8C63485" : 9223372036854775807,
+    "F604C3118C2F449A8C54E0D742BF8D79EFFD096B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8E89DE25-4ACA-46B3-BE62-ED6D5FF8A7E6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EB499519E11C2E530F8F0BE468F48277B8C63485" : "UIView%E8%BF%9B%E9%98%B6\/",
+    "F604C3118C2F449A8C54E0D742BF8D79EFFD096B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UIView进阶",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UIView进阶.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/yanmingLiu\/UIViewUpdate.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB499519E11C2E530F8F0BE468F48277B8C63485"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yanmingLiu\/YMUIViewTips.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F604C3118C2F449A8C54E0D742BF8D79EFFD096B"
+    }
+  ]
+}
